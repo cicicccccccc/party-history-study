@@ -1,0 +1,10 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <circle cx="200" cy="150" r="80" fill="#e6f7ff" stroke="#1890ff" stroke-width="2"/>
+  <circle cx="200" cy="150" r="10" fill="#1890ff"/>
+  <line x1="200" y1="70" x2="200" y2="230" stroke="#1890ff" stroke-width="4"/>
+  <line x1="120" y1="150" x2="280" y2="150" stroke="#1890ff" stroke-width="4"/>
+  <line x1="140" y1="90" x2="260" y2="210" stroke="#1890ff" stroke-width="4"/>
+  <line x1="140" y1="210" x2="260" y2="90" stroke="#1890ff" stroke-width="4"/>
+  <text x="200" y="40" font-family="Arial" font-size="20" text-anchor="middle" fill="#1890ff">抗疫科技攻关</text>
+</svg>

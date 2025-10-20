@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect x="100" y="50" width="200" height="150" fill="#c7181e"/>
+  <text x="200" y="130" font-family="Arial" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">中国共产党</text>
+  <text x="200" y="170" font-family="Arial" font-size="18" fill="#ffffff" text-anchor="middle">1921年成立</text>
+  <circle cx="200" cy="240" r="30" fill="#ffde00"/>
+  <path d="M200,220 L207,235 L223,235 L210,245 L215,260 L200,250 L185,260 L190,245 L177,235 L193,235 Z" fill="#c7181e"/>
+</svg>

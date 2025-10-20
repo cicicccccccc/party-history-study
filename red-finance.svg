@@ -1,0 +1,6 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f5f5f5"/>
+  <rect x="100" y="80" width="200" height="140" fill="#de2910" rx="10" ry="10"/>
+  <text x="200" y="150" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffde00">红色金融</text>
+  <text x="200" y="180" font-family="Arial" font-size="16" text-anchor="middle" fill="#ffde00">1927-1949</text>
+</svg>

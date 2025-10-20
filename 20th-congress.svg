@@ -1,0 +1,6 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#de2910"/>
+  <polygon points="200,50 230,150 330,150 250,210 280,300 200,240 120,300 150,210 70,150 170,150" fill="#ffde00"/>
+  <text x="200" y="155" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">二十大</text>
+  <text x="200" y="185" font-family="Arial" font-size="16" text-anchor="middle" fill="#ffffff">2022</text>
+</svg>
